@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy un estudiante de **Sistemas Microinformáticos y Redes (SMX)** en **[FPLLEFIA](https://www.fpllefia.com/)**, Badalona.  
+Soy un estudiante de **Sistemas Microinformáticos y Redes (SMX)** en **[FPLLEFIA](https://www.fpllefia.com/)**, en Badalona.  
 Me considero una persona curiosa, constante y apasionada por la informática.
 
 Mi objetivo es convertirme en **desarrollador web** y crear soluciones útiles que aporten valor.  
