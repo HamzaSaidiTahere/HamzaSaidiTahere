@@ -34,8 +34,8 @@ Actualmente estoy formándome y trabajando en proyectos que me ayuden a adquirir
 
 | 💻 Sistemas | 🌐 Web | 🛠 Software / Redes | 🔧 Hardware | 🧠 Habilidades personales |
 |-------------|-------|-------------------|------------|---------------------------|
-| Windows | HTML5 | Cisco Packet Tracer | Montaje de hardware informático | Ganas de aprender |
-| Linux | CSS3 | Word, Excel, Access | Instalación de hardware informático | Motivado |
+| Windows | HTML | Cisco Packet Tracer | Montaje de hardware informático | Ganas de aprender |
+| Linux | CSS | Word, Excel, Access | Instalación de hardware informático | Motivado |
 | Windows Server | HTML | Instalación de sistemas operativos | Configuración de equipos | Confianza en uno mismo |
 | Ubuntu | Python (básico) | Configuración de sistemas operativos | Mantenimiento de ordenadores | Desarrollo e innovación |
 | Linux Mint | JavaScript (en proceso) | Configuración de servidores DHCP y DNS | Reparación de hardware | Curiosidad intelectual |
