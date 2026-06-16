@@ -20,7 +20,7 @@ Me considero una persona curiosa, constante y apasionada por la informática.
 Mi objetivo es convertirme en **desarrollador web** y crear soluciones útiles que aporten valor.  
 Actualmente estoy formándome y trabajando en proyectos que me ayuden a adquirir experiencia real.
 
-🔥 **Actualmente busco prácticas** como:
+🔥 **Actualmente busco trabajo** como:
 
 - Técnico informático  
 - Auxiliar informático  
