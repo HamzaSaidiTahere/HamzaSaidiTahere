@@ -34,10 +34,8 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-#### **Diseño & Audiovisual**
+#### **Diseño**
 ![Affinity](https://img.shields.io/badge/Affinity_Design-005580?style=flat-square&logo=affinity&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?style=flat-square&logo=davinci-resolve&logoColor=white)
-![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=flat-square&logo=audacity&logoColor=white)
 
 ---
 
